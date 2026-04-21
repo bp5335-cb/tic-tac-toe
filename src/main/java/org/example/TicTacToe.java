@@ -1,5 +1,5 @@
 package org.example;
-
+import java.util.Scanner;
 public class TicTacToe {
     public static int getUserSlot() {
         Scanner scanner = new Scanner(System.in);
@@ -29,4 +29,4 @@ public class TicTacToe {
 
     }
 }
-}
+
